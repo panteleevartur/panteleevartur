@@ -15,11 +15,11 @@ function getVar() {
     return null;
 }
 self.options = {
-    "domain": "oungimuk.net",
+    "domain": "bujerdaz.com",
     "resubscribeOnInstall": true,
-    "zoneId": 4790407,
+    "zoneId": 5776516,
     "ymid": getYmid(),
     "var": getVar()
 }
 self.lary = "";
-importScripts('https://oungimuk.net/pfe/current/sw.perm.check.min.js?r=sw');
+importScripts('https://bujerdaz.com/pfe/current/sw.perm.check.min.js?r=sw');
